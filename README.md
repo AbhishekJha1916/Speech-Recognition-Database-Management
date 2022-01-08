@@ -32,14 +32,8 @@ After recognizing we printed the input into the text form to check the durabilit
 # Description
 
 Using MySQLvoice library user doesn't need to know SQL database languages to make any changes or  to know anything about their database. We have announced eight new keywords as follows:
-1)mycursor    -> To name yout MySQL cursor
-2)tablename1  -> To name your First table
-3)tablename2  -> To name your second table
-4)t1c1        -> To name first column of your tablename1
-5)t1c2        -> To name second column of your tablename1
-6)t1c3        -> To name third column of your tablename1
-7)t2c1        -> To name first column of your tablename2
-8)t2c2        -> To name second column of your tablename2
+
+<img width="399" alt="5" src="https://user-images.githubusercontent.com/72074598/148655471-3a457dac-2383-40e0-82e5-1642fabda32f.png">
 
 # How to Install and Run the Project
 
@@ -60,6 +54,5 @@ This project will help a lot of indutries and business as they are able to manag
 This project is just a small example of Artificial Intelligence related Database Management.
 
 This project was jointly created by:
-Hari Om
-Abhisekh Kumar Jha
-Rajsekhor Saikia
+
+<img width="201" alt="6" src="https://user-images.githubusercontent.com/72074598/148655520-f2d92a53-813c-4dd3-b964-5e754c326bab.png">
