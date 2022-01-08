@@ -8,7 +8,7 @@ mydb=mc.connect(
     password = "****",       #Write your database password
     database = "DotSlash5")  #Mention the database you want to work on
 
-#initialising cursor
+#Initialising cursor
 mycursor = mydb.cursor()     
 
 tablename1 = "voidion"       #First Table Name 
