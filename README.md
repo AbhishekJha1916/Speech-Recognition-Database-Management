@@ -24,7 +24,7 @@ The main aim of this module is to select the keywords from the given input. Afte
 
 For getting the voice input of the user we have used the pre-build library of Python which is Speech Recognition. We have taken the voice input from the systems microphone and stored it into a variable. After that we used the recognize function of Speech Recognition to recognize what user said and stored it into a variable.
 
-After recognizing we printed the input into the text for to check the durability of our program.
+After recognizing we printed the input into the text form to check the durability of our program.
 
 <img width="734" alt="4" src="https://user-images.githubusercontent.com/72074598/148636838-b9573bbb-2c61-4856-9a75-8bb538b55f7e.png">
 
