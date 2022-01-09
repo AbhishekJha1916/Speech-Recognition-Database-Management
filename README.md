@@ -47,6 +47,34 @@ it is very easy to develop for regional languages. We are mostly working in comm
 to be coded for any languages spoken in the world like Kannada, Korean, Japenese, Hindi, Gujrati etc. It will help the Non-Technical 
 person to handle databases with ease.
 
+# Advantages
+
+1) It supports multitasking.
+
+2) Users don’t need to code.
+
+3) Can be used in any sector of industry where we employ databases.
+
+4) It saves time of the user which will enhance work procedure and economy.
+
+
+# Disadvantages
+
+1) May fail to work during hardware failure.
+
+2) May take time in data training of speech recognition.
+
+3) Noise pollution can hamper the quality of voice input.
+
+4) The improper pronunciation can effect the voice input.
+
+
+# Future Plans
+
+We dream to include the regional languages (such as Kannada, Gujarati, Marathi etc.) which will help non-technical person to handle their databases.
+
+We have a plan to include this developer tool features to small scale industries to enhance their productivity with this time saving database handling.
+
 # Conclusion
 
 This project will help a lot of indutries and business as they are able to manage and organize their databases with thier voice. Also it will reduce the work load to a greater extent.
